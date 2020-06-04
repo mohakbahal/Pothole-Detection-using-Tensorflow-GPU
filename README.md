@@ -1,4 +1,4 @@
-# Pothole_detection
+# Pothole-detection Model :)
 ## A Custom Model trained to detect Pothole in images!
 
 #### Running **100 epochs** over **538** training images which involved **264** under each 'Pothole' and 'Normal' label using my **GPU**[NVIDIA GEFORCE 940MX] ! 
