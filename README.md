@@ -4,7 +4,7 @@
 [![model-accuracy.png](https://i.postimg.cc/FzgShFSn/model-accuracy.png)](https://postimg.cc/H8nn2gBQ)[![model-loss.png](https://i.postimg.cc/zDnKC7QS/model-loss.png)](https://postimg.cc/V5kJ1qmd)
 
 ### [TRY it out for Yourself]:
-1. Make sure you have certain libraries pre-installed to make this code run namely: 'Tensorflow' , 'Keras' , 'Matplotlib' , etc. (I personally prefer conda).
+1. Make sure you have certain libraries pre-installed to make this code run namely: 'Tensorflow' , 'Keras' , 'Matplotlib' , etc. (I personally prefer conda environment for Tensorflow(TensorflowGPU).
 2. Download all the files from this repository (Clone/Download).
 3. Use any IDE or Jupyter Notebook (as per your desire and ease).
 4. Copy the block of code mentioned below to load the model.
