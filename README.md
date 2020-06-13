@@ -1,9 +1,15 @@
 # Pothole-detection Model :)
 ## A Custom Model trained to detect Pothole in images!
 
-#### Running **100 epochs** over **538** training images which involved **264** under each 'Pothole' and 'Normal' label using my **GPU**[NVIDIA GEFORCE 940MX] ! 
-#### The accuracy achieved on the training set after executing these many epochs was **98.20%** and on the validation set i got was **89.50%**.
-#### I have the model and the json files which could be directly used by users to look into the result part by loading an image of your own choice!
-##### Refer to the below block of code and simply copy it from the fore-mentioned python file and run it on your PC.
-[![Capture.png](https://i.postimg.cc/NFRXVkV6/Capture.png)](https://postimg.cc/YLqjLYt0)
-[![Capture-2.png](https://i.postimg.cc/hPP4N0HK/Capture-2.png)](https://postimg.cc/QVwrTc8z)
+[![model-accuracy.png](https://i.postimg.cc/FzgShFSn/model-accuracy.png)](https://postimg.cc/H8nn2gBQ)[![model-loss.png](https://i.postimg.cc/zDnKC7QS/model-loss.png)](https://postimg.cc/V5kJ1qmd)
+
+### [TRY it out for Yourself]:
+1. Make sure you have certain libraries pre-installed to make this code run namely: 'Tensorflow' , 'Keras' , 'Matplotlib' , etc. (I personally prefer conda environment for Tensorflow(TensorflowGPU)).
+2. Download all the files from this repository (Clone/Download).
+3. Use any IDE or Jupyter Notebook (as per your desire and ease).
+4. Copy the block of code mentioned below to load the model.
+5. Simply run and feel blessed xD.
+6. You could try with any other test image as per your wish, make sure you have the image downloaded in the parent directory(in which the code is placed), furthermore remember to rename the file_name in the test_image line of code and also in the visualization segment(img , the matlab part).
+
+[![pothole.png](https://i.postimg.cc/CK2MfyYM/pothole.png)](https://postimg.cc/nsvf6PCN)
+[![pothole2.png](https://i.postimg.cc/8cRT3jvs/pothole2.png)](https://postimg.cc/64Qs46YN)
